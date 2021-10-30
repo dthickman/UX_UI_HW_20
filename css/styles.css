@@ -1,0 +1,26 @@
+body{
+    background: rgba(25, 25, 25, 0.90);
+}
+#hero{
+    background-image: url(../images/Sea-Turtle.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 70vh;
+}
+.navbar-light{
+    background: none !important;
+}
+.jumbotron{
+    background: none;
+}
+.titleCard{
+    background: black !important;
+}
+.card-title{
+    background: black;
+    color: white;
+}
+.footerCard{
+    background: black !important;
+}
